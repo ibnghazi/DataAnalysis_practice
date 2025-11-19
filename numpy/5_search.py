@@ -30,7 +30,7 @@ def search_and_replace():
 
   pass
 
-# search_and_replace()
+search_and_replace()
 
 def max_min_index():
   arr = np.array([[10,20,5],[33,15,40]])
@@ -65,4 +65,4 @@ def array_sorting():
   arr.sort()
   print(f'정렬된 기존 배열: {arr}')
 
-array_sorting()
+# array_sorting()
