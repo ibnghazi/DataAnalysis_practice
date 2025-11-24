@@ -1,4 +1,6 @@
-# pandas 사용 시
+# pandas/1_basic.py
+
+# pandas 사용 시 import pandas
 import pandas as pd
 
 # * Series : 라벨링된 1차원 배열 구조
